@@ -1,4 +1,4 @@
-# DataScience_CaseStudy
+# Google Play Store Case Study
 This case study is the GooglePlaystore Case study to analyze the Target Variable and perform different analysis using EDA.
 In this case study, the following key steps and observations were made:
 
